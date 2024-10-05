@@ -1,6 +1,8 @@
 {
   "test": {
     "color": "#00ff00",
-    "desc": "Testing"
+    "desc": "Testing",
+    "v3": true,
+    "v4": true
   }
 }
