@@ -6,7 +6,7 @@
     "v4": true
   },
   "test2": {
-    "color": "#E26FD6",
+    "color": "#000000",
     "desc": "Testing <a href='/'>test2 YAY!</a>",
     "v3": true,
     "v4": true
