@@ -1,7 +1,7 @@
 {
   "test": {
     "color": "#E26FD6",
-    "desc": "Testing",
+    "desc": "Testing <a href='/'>test</a>",
     "v3": true,
     "v4": true
   }
