@@ -8,7 +8,7 @@
   "Need Hacktoberfest badges?": {
     "color": "#ff9500",
     "desc": "Feel free to create pull requests in any BCUW repo to earn your <a href='https://hacktoberfest.com/'>Hacktoberfest</a> badges!",
-    "expiration": "2024-10-31T23:59:59.000Z"
+    "expiration": "2024-10-31T23:59:59.000Z",
     "v3": true,
     "v4": true
   }
