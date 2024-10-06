@@ -2,19 +2,19 @@
   "test": {
     "color": "#E26FD6",
     "desc": "Testing <a href='/'>test</a>",
-    "v3": true,
+    "v3": false,
     "v4": true
   },
   "test2": {
     "color": "#000000",
     "desc": "Testing <a href='/'>test2 YAY!</a>",
-    "v3": true,
+    "v3": false,
     "v4": true
   },
   "test3": {
     "color": "#c4c4c4",
     "desc": "Testing #3",
-    "v3": true,
+    "v3": false,
     "v4": true
   },
   "test4": {
