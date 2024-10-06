@@ -8,19 +8,19 @@
   "test2": {
     "color": "#000000",
     "desc": "Testing <a href='/'>test2 YAY!</a>",
-    "v3": false,
+    "v3": true,
     "v4": true
   },
   "test3": {
     "color": "#c4c4c4",
     "desc": "Testing #3",
-    "v3": false,
+    "v3": true,
     "v4": true
   },
   "test4": {
     "color": "#ff00ff",
     "desc": "Testing #4",
-    "v3": false,
+    "v3": true,
     "v4": true
   }
 }
