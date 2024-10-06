@@ -16,5 +16,11 @@
     "desc": "Testing #3",
     "v3": true,
     "v4": true
+  },
+  "test4": {
+    "color": "#ff00ff",
+    "desc": "Testing #4",
+    "v3": true,
+    "v4": true
   }
 }
