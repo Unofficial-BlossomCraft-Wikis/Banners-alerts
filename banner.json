@@ -4,5 +4,11 @@
     "desc": "Come check it out: <br /> <a href='https://v4.bcuw.xyz/'>v4.bcuw.xyz</a>",
     "v3": true,
     "v4": false
+  },
+  "Need Hacktoberfest badges?": {
+    "color": "#ff9500",
+    "desc": "feel free to make PR's in any BCUW repo to help you get your <a href='https://hacktoberfest.com/'>Hacktoberfest</a> badges!",
+    "v3": true,
+    "v4": true
   }
 }
