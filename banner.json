@@ -1,8 +1,14 @@
 {
   "Check out v4!": {
     "color": "#E26FD6",
-    "desc": "Come check it out: <br /> <a href='https://v4.bcuw.xyz/'>v4.bcuw.xyz</a>",
+    "desc": "Come check it out: <br /> <a href='https://bcuw.xyz/'>bcuw.xyz</a>",
     "v3": true,
     "v4": false
+  },
+  "Notice": {
+    "color": "#ff0000",
+    "desc": "We have ended support for v3,<br/>Please switch to <a href='https://bcuw.xyz/'>The newest version (v4)</a>",
+    "v3": true,
+    "v4": false,
   }
 }
